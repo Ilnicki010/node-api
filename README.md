@@ -1,6 +1,27 @@
-# JSHP Node Starter
-
-Initial repository for workshops
+# Docs
+<ul>
+    <li>
+      <h2>[GET] /user</h2>
+      <p>all users list</p>
+    </li>
+    <li>
+      <h2>[POST] /auth/signup</h2>
+      <p>add user to DB</p>
+      <p></p>
+    </li>
+    <li>
+      <h2>[POST] /auth/signin</h2>
+      <p>signin user </p>
+    </li>
+    <li>
+      <h2>[POST] /auth/signout</h2>
+      <p>delete user from DB</p>
+    </li>
+    <li>
+      <h2>[GET] /random-user</h2>
+      <p>return random user name</p>
+    </li>
+  </ul>
 
 ## Setup
 
